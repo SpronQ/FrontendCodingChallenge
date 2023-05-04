@@ -35,6 +35,7 @@ This is totally optional, but you may choose to add one or more of the following
 - Add new tasks to the board
 - Remove tasks from the board
 - Drag and drop tasks
+- Automate the tests (with github actions or similar)
 
 ## Testing Requirements
 
