@@ -54,3 +54,7 @@ npm install
 ```bash
 npm test
 ```
+
+## Credits
+
+This challenged is based on something I did on [HackerRank](https://www.hackerrank.com/) a while back.
