@@ -1,12 +1,16 @@
 # SpronQ coding challenge - Kanban board
 
-Hi, welcome to the SpronQ coding challenge. To complete the challenge you need to:
+Hi, welcome to the SpronQ coding challenge. I have created a basic kanban board but it is missing all functionality. It is your job to make sure the board is functional.
+
+![kanban board](kanban%20board.png)
+
+To complete the challenge you need to:
 
 1. Change app to meet the [Functional requirements](#functionality-requirements)
 2. Make sure the test `npm test` succeeds (this will test the functional requirements)
 3. Clean up the code to make sure it is maintainable and easy to read for others (sorry, I left it quite messy 😇)
 
-You should be able to complete the challenge in less than an hour.
+You should be able to complete the challenge in less than an hour. Time to spare? You may try to add some [extra functionality](#extra-functionality).
 
 ## Functionality Requirements
 
@@ -24,6 +28,13 @@ You should be able to complete the challenge in less than an hour.
     1. name - name of task. This is the unique identification for every task. [STRING] 
     2. stage - stage of task [NUMBER] (0 represents Backlog stage, 1 represents To Do stage, 2 represents Ongoing stage, 3 represents Done stage).
 
+## Extra functionality
+
+This is totally optional, but you may choose to add one or more of the following items to your app:
+
+- Add new tasks to the board
+- Remove tasks from the board
+- Drag and drop tasks
 
 ## Testing Requirements
 
